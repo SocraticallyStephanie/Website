@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Associate of Fixed Income Strat
+role: Fixed Income Strat Associate
 
 # Organizations/Affiliations
 organizations:
