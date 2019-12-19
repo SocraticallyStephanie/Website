@@ -10,8 +10,9 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "/posts/"
   weight = 20
+  hasChildren = true
 
 [[main]]
   name = "Projects"
@@ -20,7 +21,7 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
