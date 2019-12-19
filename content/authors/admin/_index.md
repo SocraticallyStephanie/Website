@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Fixed Income Strat Associate
+role: Securities Lending Strat Associate
 
 # Organizations/Affiliations
 organizations:
@@ -62,6 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Stephanie Wu is a Securities Lending Strategist at Junior Associate at CitiGroup. Her research interest includes Mathematical Finance, Financial Economics, Data Science and Programming. Her professional focus is primarily in the Fixed Income markets where she uses statistical analysis to develop and validate product ideas such as Quantitative Investment Straegies (QIS) and streamline algorithmic processes.
