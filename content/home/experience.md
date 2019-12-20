@@ -34,12 +34,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Fixed Income Strategist Intern"
+  title = "Fixed Income Strategist Analyst Intern"
   company = "Neuberger Berman"
   company_url = ""
   location = "New York"
   date_start = "2016-06-06"
-  date_end = "2016-09-11"
+  date_end = "2016-08-11"
   description = """
   Responsibilities include:
   
@@ -48,6 +48,16 @@ date_format = "Jan 2006"
   * Analyze sales needs and come up with solutions to improve the desk efficiency and profitability
   
   """
+ 
+[[experience]]
+  title = "Corporate & Investment Banking Financial Analyst Intern"
+  company = "J.P. Morgan"
+  company_url = ""
+  location = "New York"
+  date_start = "2014-06-02"
+  date_end = "2016-08-07"
+  description = """
   
-
+ 
+  """
 +++
