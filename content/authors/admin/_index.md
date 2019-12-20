@@ -14,7 +14,7 @@ role: Securities Lending Strat Associate
 
 # Organizations/Affiliations
 organizations:
-- name: CitiGroup
+- name: Citi
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Stephanie Wu is a Junior Securities Lending Strategist Associate at CitiGroup. Her research interest includes Mathematical Finance, Financial Economics, Data Science, and Programming. In her profession, her area of expertise is in Fixed Income markets, where she uses statistical analysis to develop and validate product ideas such as Quantitative Investment Strategies (QIS) and streamline algorithmic processes.
+Stephanie Wu is a Junior Securities Lending Strategist Associate at Citi. Her research interest includes Mathematical Finance, Financial Economics, Data Science, and Programming. In her profession, her area of expertise is in Fixed Income markets, where she uses statistical analysis to develop and validate product ideas such as Quantitative Investment Strategies (QIS) and streamline algorithmic processes.
