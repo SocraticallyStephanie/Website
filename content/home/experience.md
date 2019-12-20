@@ -18,18 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Junior Associate"
+  company = "CitiGroup"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "New York, NY"
+  date_start = "2017-09-15"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Creating and maintaining models and analytical tools
+  * Analyzing macro, fundamental, and technical drivers affecting fixed income markets
+  * Using statistical analysis to develop and validate quantitative investment strategies
+  * Producing regular research reports with trade recommendations on fixed income and derivative products
   """
 
 [[experience]]
