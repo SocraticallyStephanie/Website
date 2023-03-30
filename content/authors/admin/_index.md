@@ -14,11 +14,11 @@ role: Securities Lending Strat Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Citi
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests involve mathematics, real estate, gaming, .
 
 interests:
 - Mathematical Finance
@@ -30,24 +30,24 @@ education:
   courses:
   - course: MSc in Financial Engineering
     institution: Columbia University
-    year: 2017
+    year: 2016
   - course: BSc in Mathematics
     institution: Baruch College
-    year: 2014
+    year: 2013
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/socraticallystephanie
+  link: https://github.com/KidQuant
+- icon: researchgate
+  icon_pack: linkedin
+  link: https://www.linkedin.com/in/stephanie-wu-xiao/
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -56,7 +56,7 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
 - Visitors

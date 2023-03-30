@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,12 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Junior Securities Lending Strat Associate"
+  title = "FICC Derivative Automation Stt"
+  company = "Goldman Sachs"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2020-09-15"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Creating and maintaining mathematical models for fixed income derivatives
+  """
+
+[[experience]]
+  title = "Junior Securities Lending Quant Associate"
   company = "Citi"
   company_url = ""
   location = "New York, NY"
-  date_start = "2017-09-15"
-  date_end = ""
+  date_start = "2015-09-15"
+  date_end = "2020-06-20"
   description = """
   Responsibilities include:
   
@@ -38,8 +51,8 @@ date_format = "Jan 2006"
   company = "Neuberger Berman"
   company_url = ""
   location = "New York, NY"
-  date_start = "2016-06-06"
-  date_end = "2016-08-11"
+  date_start = "2014-06-06"
+  date_end = "2014-08-11"
   description = """
   Responsibilities include:
   
@@ -48,16 +61,18 @@ date_format = "Jan 2006"
   * Analyze sales needs and come up with solutions to improve the desk efficiency and profitability
   
   """
- 
+  
 [[experience]]
   title = "Corporate & Investment Banking Financial Analyst Intern"
   company = "J.P. Morgan"
   company_url = ""
   location = "New York, NY"
-  date_start = "2014-06-02"
-  date_end = "2016-08-07"
+  date_start = "2012-06-02"
+  date_end = "2012-08-07"
   description = """
   
  
   """
+  
+
 +++

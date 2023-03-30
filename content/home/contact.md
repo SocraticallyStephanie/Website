@@ -15,6 +15,8 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 +++
+
+I am available for event production and data science work. I am also happy to connect with like-minded immersive experience creators and/or those in the finance, economics, data science/ML community, so feel free to shoot me a message at my email addres listed below.
 

@@ -10,7 +10,8 @@
 
 [[main]]
   name = "Posts"
-  url = "/posts/"
+  url = "/post/"
+  identifier = "dropdown"
   weight = 20
   hasChildren = true
 
