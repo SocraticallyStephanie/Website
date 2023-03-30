@@ -8,7 +8,7 @@ active = false  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Post"
-subtitle = ""
+subtitle = "web"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

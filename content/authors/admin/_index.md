@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Andre Sealy
+name: Stephanie Wu
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist / Researcher / Writer
+role: Securities Lending Strat Associate
 
 # Organizations/Affiliations
 organizations:
@@ -18,30 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests involves Quantitative Finance, Mathematics, Data Science and Machine Learning.
+bio: My interests involve mathematics, real estate, gaming, .
 
 interests:
-- Machine Learning
 - Mathematical Finance
-- Fixed Income / Equity Research
-- Corporate Finance
-- Economics
-- FinTech
-- Rubik's Cubes Algorithms
-- Crypto Currencies / Blockchain
+- Financial Economics
+- Programming
 - Data Science
 
 education:
   courses:
-  - course: BA/MA in Statistics & Applied Mathematics
-    institution: Hunter College, School of Arts and Science
-    year: 2021
-  - course: BBA in Finance
-    institution: Pace University, Lubin School of Business
-    year: 2019
-  - course: BA in Economics
-    institution: Pace University, Dyson School of Arts & Science
-    year: 2019
+  - course: MSc in Financial Engineering
+    institution: Columbia University
+    year: 2016
+  - course: BSc in Mathematics
+    institution: Baruch College
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,14 +44,8 @@ social:
   icon_pack: fab
   link: https://github.com/KidQuant
 - icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Andre_Sealy
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ThatQuantKid
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:andre@kidquant.com"  # For a direct email link, use "mailto:test@example.org".
+  icon_pack: linkedin
+  link: https://www.linkedin.com/in/stephanie-wu-xiao/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -76,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Andre is a New York City based researcher and financier. His research interest includes investments, mobile computing, programming, sports and film. Andre does research in Economics and Finance, particularly in the Fixed Income Markets. His current project is 'Mind The Gap: Alternative Trading Strategies for Retail Investors'.
+Stephanie Wu is a Junior Securities Lending Strategist Associate at Citi. Her research interest includes Mathematical Finance, Financial Economics, Data Science, and Programming. In her profession, her area of expertise is in Fixed Income markets, where she uses statistical analysis to develop and validate product ideas such as Quantitative Investment Strategies (QIS) and streamline algorithmic processes.
