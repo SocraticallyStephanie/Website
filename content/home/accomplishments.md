@@ -21,23 +21,31 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Mathematics for Machine Learning"
-  url = "https://www.coursera.org/learn/linear-algebra-machine-learning"
+  title = "Neural Networks and Deep Learning"
+  url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2019-07-05"
+  date_start = "2018-10-01"
   date_end = ""
-  description = "Learning how Linear Algebra, Multivariate Calculus, and Principle Component Analysis relates to Machine Learning"
+  description = ""
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "SQL for Data Science"
-  url = "https://www.coursera.org/learn/sql-for-data-science?"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-08-15"
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Blockchain Fundamentals"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
   date_end = ""
-  description = "Introductory level SQL programming designed for practical use in Data Science."
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = ""
 
 +++
